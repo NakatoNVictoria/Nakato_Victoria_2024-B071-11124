@@ -1,0 +1,22 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: antiquewhite;
+    padding: 50px;
+    border: 80px;
+    margin: 450px;
+}
+li {
+    color: rgb(5, 70, 16);
+}
+carousel-inner {
+    padding: 50px;
+    margin: 200px;
+    border: 60px;
+}
+carousel-item {
+
+    padding: 50px;
+    margin: 200px;
+    border: 60px;
+}
